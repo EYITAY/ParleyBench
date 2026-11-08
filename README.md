@@ -66,7 +66,7 @@ The first command rebuilds the results table from the released games. The second
 
 ## Relation to ReasonBench
 
-ReasonBench is the author's earlier, separate project, which labels single responses. It is preexisting and is not part of this repository. ParleyBench reuses only the general approach to annotation (blinded, shuffled sheets, a private key, and agreement scoring) and the statistics helpers. The scenarios, labels, prompts, detectors and all results here are new. ReasonBench data, sheets and keys are private and are not included.
+ReasonBench, my earlier work , separate project, which labels single responses. It is preexisting and is not part of this repository. ParleyBench reuses only the general approach to annotation (blinded, shuffled sheets, a private key, and agreement scoring) and the statistics helpers. The scenarios, labels, prompts, detectors and all results here are new. ReasonBench data, sheets and keys are private and are not included.
 
 ## Citation
 
