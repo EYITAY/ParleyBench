@@ -4,7 +4,6 @@ ParleyBench measures deception between LLM agents. Two agents negotiate, each ho
 
 **Status: pilot.** This repository releases the pilot results, the pilot game logs, the human labels and the analysis and scoring code. The scenario prompts, the automatic label rules and the game runner are held back for now and are available to reviewers and collaborators on request ([add contact]). The full benchmark (more scenario families, more models, independent annotation) is planned and not built yet.
 
-Author: Eyitayo Alimi, Lagos, Nigeria. Licence: MIT.
 
 ## Pilot results
 
