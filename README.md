@@ -2,7 +2,7 @@
 
 ParleyBench measures deception between LLM agents. Two agents negotiate, each holding private information. It records how often an agent misstates that information, and how well different detectors catch it depending on whether they read what agents say, what they do, or both.
 
-**Status: pilot.** This repository releases the pilot results, the pilot game logs, the human labels and the analysis and scoring code. The scenario prompts, the automatic label rules and the game runner are held back for now and are available to reviewers and collaborators on request ([add contact]). The full benchmark (more scenario families, more models, independent annotation) is planned and not built yet.
+**Status: pilot.** This repository releases the pilot results, the pilot game logs, the human labels and the analysis and scoring code. The scenario prompts, the automatic label rules and the game runner are held back for now and are available to reviewers and collaborators on request. The full benchmark (more scenario families, more models, independent annotation) is planned and not built yet.
 
 
 ## Pilot results
